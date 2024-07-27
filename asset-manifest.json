@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Restaraunt-app/static/css/main.09b17979.css",
-    "main.js": "/Restaraunt-app/static/js/main.0fd9f45c.js",
+    "main.js": "/Restaraunt-app/static/js/main.64aee8d0.js",
     "static/media/meal.mp4": "/Restaraunt-app/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Restaraunt-app/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/laurels.jpg": "/Restaraunt-app/static/media/laurels.09403603def49a6ba8fe.jpg",
@@ -27,10 +27,10 @@
     "index.html": "/Restaraunt-app/index.html",
     "static/media/spoon.svg": "/Restaraunt-app/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.09b17979.css.map": "/Restaraunt-app/static/css/main.09b17979.css.map",
-    "main.0fd9f45c.js.map": "/Restaraunt-app/static/js/main.0fd9f45c.js.map"
+    "main.64aee8d0.js.map": "/Restaraunt-app/static/js/main.64aee8d0.js.map"
   },
   "entrypoints": [
     "static/css/main.09b17979.css",
-    "static/js/main.0fd9f45c.js"
+    "static/js/main.64aee8d0.js"
   ]
 }
