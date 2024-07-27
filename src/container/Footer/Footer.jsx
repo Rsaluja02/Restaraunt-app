@@ -12,9 +12,9 @@ const Footer = () => (
     <div className='footer-links'>
       <div className='footer-links-contact'>
         <h1 className='footer-headtext'>Contact Us</h1>
-        <p className='p__opensans'>9 W 53rd St, New York, NY 10019, USA</p>
-        <p className='p__opensans'>+1 212-344-1230</p>
-        <p className='p__opensans'>+1 212-555-1230</p>
+        <p className='p__opensans'>14B, Main Street, ABC Market, New Delhi-112001</p>
+        <p className='p__opensans'>+91 9123441230</p>
+        <p className='p__opensans'>011 2125551230</p>
       </div>
       <div className='footer-links-logo'>
         <img src={images.reserve} />
